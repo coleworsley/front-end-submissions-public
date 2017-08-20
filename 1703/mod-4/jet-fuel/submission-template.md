@@ -5,41 +5,41 @@
 # Basics
 
 #### Link to the Github Repository for the Project
-[jetfuel]()
+[jetfuel](https://github.com/coleworsley/jet-fuel)
 
 #### Link to the Deployed Application
-[heroku]()
+[heroku](https://cw-jetfuel.herokuapp.com/)
 
 #### Link to your annotated server file
-[annotated server file]()
+[annotated server file](https://github.com/coleworsley/jet-fuel/blob/cw-annotated-server/server.js)
 
 ## Completion
 
 #### Were you able to complete the base functionality?
 
-If not, explain what is missing and why.
+Yes
 
 #### Which extensions, if any, did you complete?
 
 # Code Quality
 
 #### Link to a specific block of your code on Github that you are proud of
-[happy code]()
+[happy code](https://github.com/coleworsley/jet-fuel/blob/master/db/test/seeds/testSeeds.js#L55-L60)
 
-* Why were you proud of this piece of code?
+I was particularly proud of this piece of code as it greatly simplified the idea of importing seeds into a database. By rewriting the code from the lesson in my own style, I was able to gain a much better understanding of the purpose of seeding databases especially for testing
 
 #### Link to a specific block of your code on Github that you feel not great about
-[sad code]()
+[sad code](https://github.com/coleworsley/jet-fuel/blob/master/public/index.js#L67-L83)
 
-* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+Based on the way I set up my elements, I had to make a couple nasty jquery functions that became hard to follow. I think going forward, I want to do my best to create more modularized code.
 
 #### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-[test suite]()
+[test suite](https://github.com/coleworsley/jet-fuel/blob/master/public/assets/images/testsuite.png)
 
 #### Please feel free to ask any other questions or make any other statements below!
 
-Anything else you wanna say!
+Fun project! Everything was pretty straightforward and clearly explained. It was definitely weird working with jQuery after using react for so long!
 
 -----
 
